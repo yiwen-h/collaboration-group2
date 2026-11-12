@@ -1,2 +1,2 @@
-Name: 
-Message: 
+Name: Neil Taylor
+Message: I'm new to Github
