@@ -1,2 +1,2 @@
-Name: 
-Message: 
+Name: Matt Curtis
+Message: My first Git branch!
